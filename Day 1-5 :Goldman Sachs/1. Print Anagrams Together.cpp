@@ -1,4 +1,4 @@
-Problem link: <a href="https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/"></a>
+Problem link: <a href="https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/">Print Anagrams Together</a>
 
 Expected Time Complexity: O(N*|S|*log|S|), where |S| is the length of the strings.
 Expected Auxiliary Space: O(N*|S|), where |S| is the length of the strings.
